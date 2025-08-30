@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.doqltl179.mu3libraryassets": "https://github.com/doqltl179/Mu3Library_ForUnity.git?path=Assets/Mu3LibraryAssets",
     "com.unity.collab-proxy": "2.9.2",
     "com.unity.feature.development": "1.0.2",
     "com.unity.inputsystem": "1.14.2",

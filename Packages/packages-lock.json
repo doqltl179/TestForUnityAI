@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.doqltl179.mu3libraryassets": {
+      "version": "https://github.com/doqltl179/Mu3Library_ForUnity.git?path=Assets/Mu3LibraryAssets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.13.1"
+      },
+      "hash": "291f4e67aa2dab7efcbc602154cb5cba94ba9ae3"
+    },
     "com.unity.collab-proxy": {
       "version": "2.9.2",
       "depth": 0,
