@@ -1,4 +1,3 @@
-
 Shader "Custom/ComplexVoronoiShader"
 {
     Properties
@@ -43,8 +42,11 @@ Shader "Custom/ComplexVoronoiShader"
             // Add complexity with sine waves
             float pattern = sin(voronoi * 10.0) * 0.5 + 0.5;
 
-            // Blend colors based on the pattern
-            o.Albedo = lerp(_Color1.rgb, _Color2.rgb, pattern);
+            // Sample the _MainTex texture
+            fixed4 texColor = tex2D(_MainTex, IN.uv_MainTex);
+
+            // Blend colors based on the pattern and texture
+            o.Albedo = lerp(_Color1.rgb, _Color2.rgb, pattern) * texColor.rgb;
             o.Metallic = 0.0;
             o.Smoothness = 0.5;
         }

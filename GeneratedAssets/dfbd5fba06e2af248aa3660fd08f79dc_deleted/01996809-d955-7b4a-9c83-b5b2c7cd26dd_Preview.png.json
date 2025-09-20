@@ -1,0 +1,11 @@
+{
+    "asset": "dfbd5fba06e2af248aa3660fd08f79dc",
+    "fileName": "01996809-d955-7b4a-9c83-b5b2c7cd26dd_Preview.png",
+    "prompt": "A more stylish and intricate pattern for a Custom/ComplexVoronoiShader shader",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 822147045,
+    "w3CTraceId": "ab8c26cbae81a7b9809c127421061b87",
+    "refinementMode": "Generation"
+}

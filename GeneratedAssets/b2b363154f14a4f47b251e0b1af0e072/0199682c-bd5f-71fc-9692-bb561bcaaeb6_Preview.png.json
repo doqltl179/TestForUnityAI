@@ -1,0 +1,11 @@
+{
+    "asset": "b2b363154f14a4f47b251e0b1af0e072",
+    "fileName": "0199682c-bd5f-71fc-9692-bb561bcaaeb6_Preview.png",
+    "prompt": "voronoi",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 740228712,
+    "w3CTraceId": "1431936c189713f471937993b80927cd",
+    "refinementMode": "Generation"
+}
