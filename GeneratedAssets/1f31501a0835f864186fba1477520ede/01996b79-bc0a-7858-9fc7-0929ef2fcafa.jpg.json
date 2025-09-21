@@ -1,0 +1,20 @@
+{
+    "asset": "1f31501a0835f864186fba1477520ede",
+    "fileName": "01996b79-bc0a-7858-9fc7-0929ef2fcafa.jpg",
+    "prompt": "Basket, empty, level 01",
+    "negativePrompt": "Blurry, messy pixels, jepg artifacts, background, shadows, watermark",
+    "model": "94c4260f-b988-40e7-b3d3-435b9f449bd0",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "276fcaa0485d208c5a473f1da287abbe",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

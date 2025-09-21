@@ -1,0 +1,20 @@
+{
+    "asset": "1f31501a0835f864186fba1477520ede",
+    "fileName": "01996b80-0ec8-7671-829e-70af42929ef6.jpg",
+    "prompt": "Basket, levelup, level 02, a few fruit",
+    "negativePrompt": "Blurry, messy pixels, jepg artifacts, background, shadows, watermark",
+    "model": "2f9239be-1807-41a9-b07b-f6a0483a6f8b",
+    "modelName": "RPG Environment",
+    "customSeed": -1,
+    "w3CTraceId": "2a5091a8999549af672962bbe9039d71",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

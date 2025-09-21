@@ -1,0 +1,29 @@
+{
+    "asset": "1f31501a0835f864186fba1477520ede",
+    "fileName": "01996c69-f35b-75bb-890f-4ffe93b020c1.jpg",
+    "prompt": "bigger Basket, levelup, upgrade, level 04, more fruit and more vegetable",
+    "negativePrompt": "Blurry, messy pixels, jepg artifacts, background, shadows, watermark",
+    "model": "2f9239be-1807-41a9-b07b-f6a0483a6f8b",
+    "modelName": "RPG Environment",
+    "customSeed": -1,
+    "w3CTraceId": "b8db62fe53a21e63e1b9556446f14389",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 8,
+                "doodle": [],
+                "label": "Style",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "d558682c8794b6d4e905cc3035d210d9"
+            }
+        ]
+    },
+    "upscaleFactor": 0
+}
