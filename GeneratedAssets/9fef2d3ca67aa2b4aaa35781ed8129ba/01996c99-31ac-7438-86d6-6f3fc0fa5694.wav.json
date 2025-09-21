@@ -1,0 +1,13 @@
+{
+    "asset": "9fef2d3ca67aa2b4aaa35781ed8129ba",
+    "fileName": "01996c99-31ac-7438-86d6-6f3fc0fa5694.wav",
+    "prompt": "SFX, gunfire, revolver, clear",
+    "negativePrompt": "noise, reverb, music, distorted, bit",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "14f5529f6166d10b2dcc66d2301ac8ed",
+    "duration": 2.0,
+    "autoTrim": true,
+    "hasReference": true
+}

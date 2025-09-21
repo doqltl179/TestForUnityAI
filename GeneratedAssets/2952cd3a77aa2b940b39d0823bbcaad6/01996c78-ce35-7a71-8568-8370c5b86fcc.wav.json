@@ -1,0 +1,13 @@
+{
+    "asset": "2952cd3a77aa2b940b39d0823bbcaad6",
+    "fileName": "01996c78-ce35-7a71-8568-8370c5b86fcc.wav",
+    "prompt": "footstep, three times, on grass",
+    "negativePrompt": "noise, reverb, music, distorted",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "42b284bc9dc686e902619cfad60c37a1",
+    "duration": 3.0,
+    "autoTrim": true,
+    "hasReference": false
+}

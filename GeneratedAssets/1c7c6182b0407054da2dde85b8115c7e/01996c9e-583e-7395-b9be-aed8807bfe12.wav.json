@@ -1,0 +1,13 @@
+{
+    "asset": "1c7c6182b0407054da2dde85b8115c7e",
+    "fileName": "01996c9e-583e-7395-b9be-aed8807bfe12.wav",
+    "prompt": "SFX, flip the pages",
+    "negativePrompt": "noise, reverb, music, distorted, bit",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "64acf7db2da19cfd289e8e7f8f978b5e",
+    "duration": 2.0,
+    "autoTrim": true,
+    "hasReference": false
+}

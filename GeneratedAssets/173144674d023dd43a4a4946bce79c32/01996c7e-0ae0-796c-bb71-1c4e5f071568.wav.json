@@ -1,0 +1,13 @@
+{
+    "asset": "173144674d023dd43a4a4946bce79c32",
+    "fileName": "01996c7e-0ae0-796c-bb71-1c4e5f071568.wav",
+    "prompt": "cheerful, starry, button click, sfx",
+    "negativePrompt": "noise, reverb, music, distorted",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "fe432a2b8fb1dba57d8b2d1c0d7e090e",
+    "duration": 2.0,
+    "autoTrim": true,
+    "hasReference": false
+}

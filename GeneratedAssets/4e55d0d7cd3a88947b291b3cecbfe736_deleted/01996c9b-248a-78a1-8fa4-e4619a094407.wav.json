@@ -1,0 +1,13 @@
+{
+    "asset": "4e55d0d7cd3a88947b291b3cecbfe736",
+    "fileName": "01996c9b-248a-78a1-8fa4-e4619a094407.wav",
+    "prompt": "three times",
+    "negativePrompt": "noise, reverb, music, distorted, bit",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "8cbc1d6dac7bc4747aebe6529b9d87c5",
+    "duration": 2.000124931335449,
+    "autoTrim": true,
+    "hasReference": true
+}

@@ -1,0 +1,13 @@
+{
+    "asset": "173144674d023dd43a4a4946bce79c32",
+    "fileName": "01996c84-b2d4-7a1d-93c6-fcb7fd1554d7.wav",
+    "prompt": "clear, starry, sfx",
+    "negativePrompt": "noise, reverb, music, distorted",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "51fa13de0b7f5c2b7daddbba94f17de3",
+    "duration": 1.0,
+    "autoTrim": true,
+    "hasReference": false
+}

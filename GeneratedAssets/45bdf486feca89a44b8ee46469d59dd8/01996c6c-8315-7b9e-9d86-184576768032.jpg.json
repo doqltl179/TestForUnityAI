@@ -1,0 +1,29 @@
+{
+    "asset": "1f31501a0835f864186fba1477520ede",
+    "fileName": "01996c6c-8315-7b9e-9d86-184576768032.jpg",
+    "prompt": "bigger Basket, levelup, upgrade, level 04, more fruit and more vegetable",
+    "negativePrompt": "Blurry, messy pixels, jepg artifacts, background, shadows, watermark",
+    "model": "7a57fc4f-bbb1-4855-8a4a-eecc19b55558",
+    "modelName": "Game Environment Items (Flux)",
+    "customSeed": -1,
+    "w3CTraceId": "f3ab73f9cb67b6520d82701ab4ad13b8",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "d558682c8794b6d4e905cc3035d210d9"
+            }
+        ]
+    },
+    "upscaleFactor": 0
+}
